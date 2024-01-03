@@ -1,0 +1,16 @@
+
+Ponto 1 (Pontos diretamente ou indiretamente conectados): 1 7 6 3 5 2 4 10
+Ponto 2 (Pontos diretamente ou indiretamente conectados): 2 4 10 1 7 6 3 5
+Ponto 3 (Pontos diretamente ou indiretamente conectados): 3 5 2 4 10 1 7 6
+Ponto 4 (Pontos diretamente ou indiretamente conectados): 4 2 5 3 6 7 1 10
+Ponto 5 (Pontos diretamente ou indiretamente conectados): 5 2 4 10 1 7 6 3
+Ponto 6 (Pontos diretamente ou indiretamente conectados): 6 3 5 2 4 10 1 7
+Ponto 7 (Pontos diretamente ou indiretamente conectados): 7 1 10 4 2 5 3 6
+Ponto 8 (Pontos diretamente ou indiretamente conectados): 8
+Ponto 9 (Pontos diretamente ou indiretamente conectados): 9
+Ponto 10 (Pontos diretamente ou indiretamente conectados): 10 1 7 6 3 5 2 4
+7 -> 1 -> 10 -> 4 -> 2
+Não existe conexão entre os nós.
+Não existe conexão entre os nós.
+10 -> 8
+Existe conexão entre os nós.
